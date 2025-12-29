@@ -274,7 +274,7 @@ ptw -- -v --cov
 
 ## 👨‍💻 Autor
 
-**João** - [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+**Sidney** - [GitHub](https://github.com/Sidneyrvj) | [LinkedIn](https://linkedin.com/in/seu-perfil)
 
 ---
 
