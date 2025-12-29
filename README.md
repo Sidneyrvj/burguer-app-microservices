@@ -228,7 +228,7 @@ def test_create_user_success(mock_users_col):
     mock_users_col.find_one.return_value = None
     mock_users_col.insert_one.return_value = MagicMock(inserted_id=ObjectId())
 
-    response, status = create_user('João Silva', 'joao@email.com', 'senha123')
+    response, status = create_user('Sidney Rodrigues', 'sidney@gmail', 'senha123')
 
     assert status == 201
     assert 'message' in response
@@ -274,7 +274,7 @@ ptw -- -v --cov
 
 ## 👨‍💻 Autor
 
-**Sidney** - [GitHub](https://github.com/Sidneyrvj) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+**Sidney** - [GitHub](https://github.com/Sidneyrvj) | [LinkedIn](www.linkedin.com/in/sidney-rodrigues-0b18a0334)
 
 ---
 
